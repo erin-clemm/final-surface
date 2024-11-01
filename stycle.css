@@ -1,0 +1,137 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+
+h2 {
+    text-align: center;
+    color: #e1d9d6;
+}
+
+
+p {
+    color: #e1d9d6;
+}
+
+
+.parallax-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-image: url('./rockyCover.avif');
+    background-position: center;
+    background-size: cover;
+}
+
+
+.parallax-text {
+    color: rgb(60 60 60);
+    text-align: center;
+}
+
+
+.parallax-container2 {
+    width: 100%;
+    min-height: 525px;
+    background-color: #052f5f;
+    display: flex;
+    /* Flexbox to align items side-by-side */
+    justify-content: space-around;
+    /* Spreads the images with space in between */
+    align-items: center;
+    /* Vertically centers the images */
+}
+
+
+.rocky1,
+.rocky2,
+.rocky3 {
+    width: 300px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.rocky1 img,
+.rocky2 img,
+.rocky3 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.parallax-container3 {
+    width: 100%;
+    min-height: 525px;
+    background-color: #052f5f;
+    display: flex;
+    /* Flexbox to align items side-by-side */
+    justify-content: space-around;
+    /* Spreads the images with space in between */
+    align-items: center;
+    /* Vertically centers the images */
+}
+
+
+.rocky4,
+.rocky5,
+.rockyBalboa {
+    width: 300px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.rocky4 img,
+.rocky5 img,
+.rockyBalboa img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.parallax-container4 {
+    width: 100%;
+    min-height: 575px;
+    background-color: #5D0F09;
+    display: flex;
+    /* Flexbox to align items side-by-side */
+    justify-content: space-around;
+    /* Spreads the images with space in between */
+    align-items: center;
+    /* Vertically centers the images */
+}
+
+
+.rocky,
+.adrian,
+.apollo {
+    width: 300px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.rocky img,
+.adrian img,
+.apollo img {
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    object-fit: cover;
+}
