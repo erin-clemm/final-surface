@@ -136,3 +136,6 @@ p {
     object-fit: cover;
 }
 
+#rocky1.visible {
+    animation: slide-in 0.5s forwards;
+  }
