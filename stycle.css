@@ -11,9 +11,25 @@ h2 {
     color: #e1d9d6;
 }
 
+h4 {
+    color: #e1d9d6;
+    font-size: 100px;
+    border: 2px solid;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+}
+
+h6 {
+    color: #e1d9d6;
+    font-size: 20px;
+}
 
 p {
     color: #e1d9d6;
+}
+
+a {
+    width: 100%;
+    height: 100%;
 }
 
 
@@ -134,4 +150,137 @@ p {
     height: 50%;
     border-radius: 50%;
     object-fit: cover;
+}
+
+.parallax-container5 {
+    background-color: #3e3a41;
+    width: 100%;
+    min-height: 300px;
+    text-align: center;
+}
+
+.rocky1-container1 {
+    text-decoration-color: #e1d9d6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-image: url('./rockyCover.avif');
+    background-position: center;
+    background-size: cover;
+}
+
+.rocky1-container2 {
+    min-height: 300px;
+    background-color: #5D0F09;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.rocky2-container1 {
+    text-decoration-color: #e1d9d6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-image: url('./rockyCover.avif');
+    background-position: center;
+    background-size: cover;
+}
+
+.rocky2-container2 {
+    min-height: 300px;
+    background-color: #5D0F09;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.rocky3-container1 {
+    text-decoration-color: #e1d9d6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-image: url('./rockyCover.avif');
+    background-position: center;
+    background-size: cover;
+}
+
+.rocky3-container2 {
+    min-height: 300px;
+    background-color: #5D0F09;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.rocky4-container1 {
+    text-decoration-color: #e1d9d6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-image: url('./rockyCover.avif');
+    background-position: center;
+    background-size: cover;
+}
+
+.rocky4-container2 {
+    min-height: 300px;
+    background-color: #5D0F09;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.rocky5-container1 {
+    text-decoration-color: #e1d9d6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-image: url('./rockyCover.avif');
+    background-position: center;
+    background-size: cover;
+}
+
+.rocky5-container2 {
+    min-height: 300px;
+    background-color: #5D0F09;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.rockyBalboa-container1 {
+    text-decoration-color: #e1d9d6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-image: url('./rockyCover.avif');
+    background-position: center;
+    background-size: cover;
+}
+
+.rockyBalboa-container2 {
+    min-height: 300px;
+    background-color: #5D0F09;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
 }
